@@ -1,7 +1,6 @@
 # Neural Network from Scratch with NumPy
 
 This project implements a simple neural network **from scratch using only NumPy** to solve the classic **XOR problem**.
-
 The goal of this project is to understand the fundamental mechanics of neural networks without using high-level frameworks.
 
 ## Concepts Implemented
@@ -56,7 +55,7 @@ The model successfully learns the XOR pattern.
 
 ## Requirements
 
-* Python 3
+* Python 
 * NumPy
 
 Install dependencies:
@@ -68,7 +67,7 @@ pip install numpy
 ## Run the Project
 
 ```
-python nn.py
+python main.py
 ```
 
 ## Purpose
